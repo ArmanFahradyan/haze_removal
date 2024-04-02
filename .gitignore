@@ -2,3 +2,5 @@
 
 # custom
 datasets/
+metric_scores/
+results
