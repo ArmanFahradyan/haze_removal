@@ -1,0 +1,26 @@
+marin-headlands-bridge.jpg	6.764801572647818
+foggy_oaks.jpg	6.7772860996804
+foggy_bench.jpg	6.227549068901871
+y01_photo.png	6.709737919767042
+foggy_morning_bills.jpg	6.666509051556879
+hazyDay_input.jpg	6.464734274785085
+moebius_input.png	6.512518116657584
+FoggyKiss.jpg	6.3557841753803315
+lilyhazy.jpg	6.076776543878805
+house_input.jpg	6.529377172775077
+foggyHouse.jpg	6.3445556120650775
+real.jpg	6.424377801248773
+trees.png	6.394100020209899
+wolf.jpg	6.706796850350867
+fishers.jpg	6.575964225923868
+Haze.jpg	6.580493970649791
+tiananmen1.png	6.502712624192216
+foggy-school-morning.jpg	6.664198907242961
+Foggy_Day_in_Brussels_by_BenHeine.jpg	6.561122897168231
+foggy-forest.jpg	6.423734417028749
+mountain-input.bmp	6.319614991295576
+trees_foggy.jpg	6.46791857476093
+meadows-foggy-smokey-sunbeams.jpg	6.517357923607559
+manor.jpg	6.860083768431544
+
+avg_score	6.517837774175288
